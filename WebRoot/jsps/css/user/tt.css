@@ -1,0 +1,12 @@
+body{color:#404040}
+.divbody{margin-left:240px;}
+.divtitle{height:30px; width:880px;border:1px #d0d0d0 solid;background: url('/goods/images/bg_btns.png'); background-position: 0px -132px; line-height: 30px;}
+.spanid{font-weight:900;margin-left:18px;}
+.butdiv{height:400px;width:880px;border-left:1px #d0d0d0 solid;border-right:1px #d0d0d0 solid;border-bottom:1px #d0d0d0 solid;}
+.tdlabel{text-align:right;width:300px;}
+.tdinput{width:250px;}
+.tderror{width:400px;}
+.tderror{width: 300px;}
+table{line-height: 50px;}
+.labelerror{font-color:red; font-size:10pt;line-height:32px;color: #f40000;border: 1px #ffb8b8 solid; padding: 8px 8px 8px 35px;background: url(/goods/images/error.png) no-repeat; background-color: #fef2f2; }
+.input{height:32px;width:240px;border:1px #7f9db9 solid;padding-left:17px;line-height: 32px;}
